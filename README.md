@@ -1,8 +1,8 @@
 👋 Hi, I’m Yu Chan Jeong!
 
-I am junior Computer Science major at Ouachita Baptist University.
-My favorite subjects are related to my major, mathematics, and on the side, philosophy.
-Right now, I am looking for internship spots. I would love any advice or opportunities that are shared with me!
+I am a senior Computer Science major at Ouachita Baptist University.
+I have a passion for programming, and I look forward doing it as a full time career.  
+My other interest include mathematics, which I am minoring in. 
 
 ⚡ Fun fact: My hobbies are running, swimming, board games, and driving. 
 
